@@ -1,0 +1,5 @@
+<h1>Welcome</h1>
+<p>
+    <img src="/images/office-small.jpg" align="left">
+    <a href="/">E2 Team</a> - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar blandit iaculis. Phasellus ornare nisl eget tempus tempor. Aenean ut libero porttitor, varius libero ac, efficitur dui. Fusce varius risus odio, in congue urna congue sagittis. Phasellus non neque vitae elit consequat condimentum. Pellentesque quis ante fermentum, fermentum lorem quis, eleifend ligula. Aenean quis congue erat. Maecenas nec urna volutpat, mattis urna ac, finibus felis. Curabitur vehicula elit nec lacus porta vestibulum. Sed molestie nunc metus. Donec sed neque a justo semper luctus eu sed turpis. Morbi a varius urna. Aenean ut aliquet ante. Duis vitae pellentesque arcu. Curabitur porta consectetur ex varius cursus. Duis venenatis commodo ligula ut iaculis. - <a href="/">E2 Team</a>.
+</p>

@@ -1,0 +1,14 @@
+{
+    "name": "evgpol/tinymvc",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Evgeny Polyakov",
+            "email": "evg_pol@yahoo.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3"
+    }
+}
